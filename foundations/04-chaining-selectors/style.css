@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+/* div {
+    border: 10px solid black; test border
+} */
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+    /* border: 10px solid black; test border*/
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
